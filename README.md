@@ -109,4 +109,4 @@ cd /path/to/your/project/run/eval/chair
 bash chair.sh
 ```
 
-Additional training details will be shared after the paper is accepted for publication.
+Additional training details and datasets will be shared after the paper is accepted for publication.
